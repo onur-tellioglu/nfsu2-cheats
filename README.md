@@ -1,6 +1,6 @@
 # nfsu2-cheats
 
-`nfsu2-owncar.user.js` (version 1.5.7) is a userscript that adds hotkey toggles for your own car in the browser build of Need for Speed: Underground 2 at [nfsu2.xyz](https://nfsu2.xyz). It changes only the player's own car: hover, a short forward warp, a speed boost, a nitrous refill, extra grip, extra braking, a corner assist and warping to other players. All features work in free roam. In lobby races they stay locked until you allow them with Alt+9, and a tighter race preset then applies.
+`nfsu2-owncar.user.js` (version 1.5.8) is a userscript that adds hotkey toggles for your own car in the browser build of Need for Speed: Underground 2 at [nfsu2.xyz](https://nfsu2.xyz). It changes only the player's own car: hover, a short forward warp, a speed boost, a nitrous refill, extra grip, extra braking, a corner assist and warping to other players. All features work in free roam. In lobby races they stay locked until you allow them with Alt+9, and a tighter race preset then applies.
 
 ## Hotkeys
 
