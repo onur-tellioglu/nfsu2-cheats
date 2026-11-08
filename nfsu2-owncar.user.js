@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NFSU2 Web: own-car hover / warp / boost
 // @namespace    local.nfsu2.owncar
-// @version      1.5.7
+// @version      1.5.8
 // @description  Hotkey toggles for the player's own car on nfsu2.xyz (free roam; races behind Alt+9, with a tighter preset in races): hover, short forward warp, speed boost, nitrous refill, grip.
 // @match        https://nfsu2.xyz/*
 // @match        https://*.nfsu2.xyz/*
@@ -13,6 +13,8 @@
 // @grant        unsafeWindow
 // @sandbox      JavaScript
 // @noframes
+// @updateURL    https://raw.githubusercontent.com/onur-tellioglu/nfsu2-cheats/main/nfsu2-owncar.user.js
+// @downloadURL  https://raw.githubusercontent.com/onur-tellioglu/nfsu2-cheats/main/nfsu2-owncar.user.js
 // ==/UserScript==
 /* global exportFunction, cloneInto, XPCNativeWrapper, globalThis */
 
